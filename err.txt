@@ -1,0 +1,14 @@
+Checking for wireless devices...
+
+Connected devices:
+macOS (desktop)                 • macos                 • darwin-arm64   • macOS 15.3.1 24D70 darwin-arm64
+Mac Designed for iPad (desktop) • mac-designed-for-ipad • darwin         • macOS 15.3.1 24D70 darwin-arm64
+Chrome (web)                    • chrome                • web-javascript • Google Chrome 136.0.7103.114
+[1]: macOS (macos)
+[2]: Mac Designed for iPad (mac-designed-for-ipad)
+[3]: Chrome (chrome)
+Please choose one (or "q" to quit): 4
+Please choose one (or "q" to quit): 3
+Launching lib/main.dart on Chrome in debug mode...
+Waiting for connection from debug service on Chrome...          
+Waiting for connection from debug service on Chrome...              8,6s
